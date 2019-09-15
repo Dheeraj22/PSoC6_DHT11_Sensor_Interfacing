@@ -6,10 +6,10 @@ Hardware used:
 2. [DHT11 Humidity and Temperate Sensor](https://components101.com/dht11-temperature-sensor)
 
 Connections:
-Sensor  <------>  MCU
- VCC              3.3V
- GND              GND
- DATA             P5.6
+Sensor  <------>  MCU  
+ VCC              3.3V  
+ GND              GND  
+ DATA             P5.6  
 
 Connect a 4.7K pull up resistor between DATA pin of sensor and VDD of the MCU. 
  
