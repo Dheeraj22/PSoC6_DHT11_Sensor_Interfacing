@@ -6,7 +6,7 @@ In this project we interface PSoC6 with the DHT11 Humidity and Temperature Senso
 2. [DHT11 Humidity and Temperate Sensor](https://components101.com/dht11-temperature-sensor)
 
 ### Connections:  
-Sensor  <-------->  MCU  
+##### Sensor  <-------->  MCU  
  VCC <--------> 3.3V  
  GND <--------> GND  
  DATA <---------> P5.6  
